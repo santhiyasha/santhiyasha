@@ -1,0 +1,7 @@
+<html>
+<frameset cols=34%,34%,34%>
+<frame name="left" src="prabha4.html">
+<frame name="center" src="prabha5.html">
+<frame name="right" src="prabha6.html">
+</frameset>
+</html>

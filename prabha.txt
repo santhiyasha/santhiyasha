@@ -1,0 +1,6 @@
+<html>
+<frameset rows=<"20%,80%">
+<frame name="top"src="">
+<frame name="bottom"src="prabha2.html">
+</frameset
+</html>
